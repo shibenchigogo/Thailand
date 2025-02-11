@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { Globe, Palm } from 'lucide-react';
+import { Globe, Leaf } from 'lucide-react';
 import { siteConfig } from '@/config/site';
 
 const CountdownTimer = () => {
@@ -259,7 +259,7 @@ const HomePage = () => {
           {/* Left Card */}
           <div className="flex-1 bg-emerald-900/50 backdrop-blur rounded-lg p-8 border border-emerald-800 hover:border-emerald-500/50 transition-all duration-500 transform hover:-translate-y-2">
             <div className="mb-6">
-              <Palm className="w-12 h-12 text-emerald-500" />
+              <Leaf className="w-12 h-12 text-emerald-500" />
             </div>
             <h2 className="text-4xl font-light mb-4 italic">Experience Thailand.</h2>
             <p className="text-zinc-400 mb-8 text-lg leading-relaxed">
