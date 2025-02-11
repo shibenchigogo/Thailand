@@ -12,7 +12,7 @@ export const siteConfig = {
 
   // Token Information
   token: {
-    symbol: "$THAI",
+    symbol: "$Thailand",
     requiredAmount: 100000,  // Required token amount for free visa application
   },
 
