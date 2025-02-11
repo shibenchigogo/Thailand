@@ -1,63 +1,63 @@
 export const siteConfig = {
-  // 基本信息
-  name: "Andorra",
-  title: "Andorra DAO",
-  description: "A DAO organization built on Solana, revolutionizing  Andorra's tourism through blockchain and AI.",
+  // Basic Information
+  name: "Thailand",
+  title: "Thailand DAO",
+  description: "A DAO organization built on Solana, revolutionizing Thailand's tourism through blockchain and AI.",
   slogan: "Transforming tourism through blockchain technology",
 
-  // 合约信息
+  // Contract Information
   contract: {
     ca: "EymtcY3PvtudTHJwEPNtVZF91tr68gY77VQjenvXqaUC",
   },
 
-  // 代币信息
+  // Token Information
   token: {
-    symbol: "$Andorra",
-    requiredAmount: 100000,  // 所需代币数量用于免费签证申请
+    symbol: "$THAI",
+    requiredAmount: 100000,  // Required token amount for free visa application
   },
 
-  // 倒计时配置
+  // Countdown Configuration
   countdown: {
     hours: 48,
     title: "Token Benefits Access",
     description: "Time remaining for early token benefits"
   },
 
-  // 团队信息
+  // Team Information
   team: [
     {
-      name: "Marc Rossell",
+      name: "Somchai Suk",
       role: "CEO & Founder",
-      description: "Former tourism executive with deep connections in Andorra's hospitality sector."
+      description: "Former tourism executive with deep connections in Thailand's hospitality sector."
     },
     {
-      name: "Sofia Martinez",
+      name: "Pranee Wong",
       role: "CTO",
       description: "Blockchain architect specializing in tourism applications and AI integration."
     },
     {
-      name: "Pierre Dubois",
+      name: "Apirak Chan",
       role: "Head of Tourism Relations",
-      description: "20+ years experience in European tourism development and strategic partnerships."
+      description: "20+ years experience in Asian tourism development and strategic partnerships."
     },
     {
-      name: "Anna Serra",
+      name: "Malai Thong",
       role: "Chief Innovation Officer",
       description: "AI specialist focused on creating personalized tourist experiences through technology."
     },
     {
-      name: "Joan Mitjana",
+      name: "Kiet Samak",
       role: "Head of Community",
-      description: "Native Andorran focused on building bridges between traditional tourism and Web3."
+      description: "Native Thai focused on building bridges between traditional tourism and Web3."
     },
     {
-      name: "Maria Costa",
+      name: "Siri Ratana",
       role: "Chief Marketing Officer",
       description: "Expert in digital marketing and blockchain community building with tourism focus."
     }
   ],
 
-  // 社交链接
+  // Social Links
   social: {
     twitter: "#",
     telegram: "#",

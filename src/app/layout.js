@@ -12,15 +12,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'Andorra DAO',
-  description: 'A DAO organization revolutionizing Andorra tourism through blockchain and AI',
+  title: 'Thailand DAO',
+  description: 'A DAO organization revolutionizing Thailand tourism through blockchain and AI',
 }
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-b from-blue-900/20 to-blue-950/40`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-b from-emerald-900/20 to-emerald-950/40`}
       >
         {children}
       </body>
