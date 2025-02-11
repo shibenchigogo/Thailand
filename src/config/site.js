@@ -7,7 +7,7 @@ export const siteConfig = {
 
   // Contract Information
   contract: {
-    ca: "EymtcY3PvtudTHJwEPNtVZF91tr68gY77VQjenvXqaUC",
+    ca: "wKhzsa2Dc11JbHN6BetsUtnZtB5qFup3RwFGAECpump",
   },
 
   // Token Information
